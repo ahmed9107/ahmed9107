@@ -1,4 +1,4 @@
-### **<div align="center"><img style="margin: 10px" src="https://toppng.com/uploads/preview/waving-hand-emoji-svg-11549875522a4ojenddj3.png" height="25" /> HELLO  I'm Ahmed, a full-time Mobile apps freelance developer 👨‍💻</div>**  
+### **<div align="center">HELLO 👋  I'm Ahmed, a full-time Mobile apps freelance developer 👨‍💻</div>**  
   
 
 - 🔭 I’m currently working on   
