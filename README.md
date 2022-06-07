@@ -90,27 +90,21 @@
   
 
 <br/>  
-
-
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=&hide_border=true&layout=compact" align="center" /></div>  
 
 <img src="https://github-readme-stats.vercel.app/api?username=undefined&show_icons=true&count_private=true&hide_border=true" align="left" />  
-
 <br/> 
 
 <!--<br/>  
-
-
 <!--## Recent Blog Posts  
  BLOG-POST-LIST:START 
 If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
 BLOG-POST-LIST:END  
-
 <br/> -->
 
   
-
+----
 <br/>  
 
 <div align="center">
@@ -120,7 +114,5 @@ BLOG-POST-LIST:END
 
 <br/>  
 
-### ** <div align="center"><a href="https://paypal.me/Ahmed Azami Hassani" target="_blank" style="display: inline-block;"> <img src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square" align="center"/></a></div>
+<div align="center"><a href="https://paypal.me/Ahmed Azami Hassani" target="_blank" style="display: inline-block;"> <img src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square" align="center"/></a></div>
 <br />
-
-----
