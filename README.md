@@ -120,13 +120,7 @@ BLOG-POST-LIST:END
 
 <br/>  
 
-<div align="center">
-            <a href="https://paypal.me/Ahmed Azami Hassani" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square" 
-                    align="center"
-                />
-            </a></div>
+### ** <div align="center"><a href="https://paypal.me/Ahmed Azami Hassani" target="_blank" style="display: inline-block;"> <img src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square" align="center"/></a></div>
 <br />
 
 ----
