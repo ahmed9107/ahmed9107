@@ -1,9 +1,4 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-  
-
-### **<div align="center">I'm Ahmed, a full-time Mobile apps freelance developer 👨‍💻</div>**  
+### **<div align="center">HELLO  I'm Ahmed, a full-time Mobile apps freelance developer 👨‍💻</div>**  
   
 
 - 🔭 I’m currently working on   
