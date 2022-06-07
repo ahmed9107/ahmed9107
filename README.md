@@ -1,4 +1,4 @@
-### **<div align="center"><img style="margin: 10px" src="[https://profilinator.rishav.dev/skills-assets/javascript-original.svg](https://mpng.subpng.com/20180404/zbw/kisspng-emoji-human-skin-color-wave-dark-skin-light-skin-hand-emoji-5ac4f301e26f18.7617182215228567059275.jpg)" alt="JavaScript" height="15" /> HELLO  I'm Ahmed, a full-time Mobile apps freelance developer 👨‍💻</div>**  
+### **<div align="center"><img style="margin: 10px" src="https://toppng.com/uploads/preview/waving-hand-emoji-svg-11549875522a4ojenddj3.png" height="15" /> HELLO  I'm Ahmed, a full-time Mobile apps freelance developer 👨‍💻</div>**  
   
 
 - 🔭 I’m currently working on   
