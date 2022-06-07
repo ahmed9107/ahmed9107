@@ -1,4 +1,4 @@
-### **<div align="center"><img style="margin: 10px" src="https://toppng.com/uploads/preview/waving-hand-emoji-svg-11549875522a4ojenddj3.png" height="15" /> HELLO  I'm Ahmed, a full-time Mobile apps freelance developer 👨‍💻</div>**  
+### **<div align="center"><img style="margin: 10px" src="https://toppng.com/uploads/preview/waving-hand-emoji-svg-11549875522a4ojenddj3.png" height="25" /> HELLO  I'm Ahmed, a full-time Mobile apps freelance developer 👨‍💻</div>**  
   
 
 - 🔭 I’m currently working on   
@@ -97,15 +97,15 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=undefined&show_icons=true&count_private=true&hide_border=true" align="left" />  
 
-<br/>  
+<!--<br/>  
 
 
-## Recent Blog Posts  
-<!-- BLOG-POST-LIST:START -->  
+<!--## Recent Blog Posts  
+ BLOG-POST-LIST:START 
 If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
-<!-- BLOG-POST-LIST:END -->  
+BLOG-POST-LIST:END  
 
-<br/>  
+<br/> -->
 
   
 
