@@ -60,7 +60,13 @@
 
 </td></tr></table>  
 
-<br/>  
+<br/>
+
+## Github Stats
+<br/> 
+<div><img src="https://github-readme-stats.vercel.app/api?username=ahmed9107&show_icons=true&theme=radical"/></div>
+<!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmed9107&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)-->
+<br/>
 
 
 ## Connect with me  
@@ -89,11 +95,6 @@
 </div>  
   
 <br/>  
-## Github Stats
-<br/> 
-<div><img src="https://github-readme-stats.vercel.app/api?username=ahmed9107&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats"/></div>
-<!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmed9107&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)-->
-<br/>
 
 <!--<br/>  
 ## Github Stats  
