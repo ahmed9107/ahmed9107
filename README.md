@@ -1,13 +1,12 @@
 ### **<div>HELLO 👋  I'm Ahmed, a full-time Mobile apps freelance developer 👨‍💻</div>**  
   
 
-- 🔭 I’m currently working on   
+<!--- 🔭 I’m currently working on   
   
 
-- 🌱 I’m currently learning Flutter   
-  
+- 🌱 I’m currently learning Flutter -->   
 
-- ⚡ Fun fact: I use tabs over spaces  
+<!--- ⚡ Fun fact: I use tabs over spaces-->  
   
 
 <br/>  
