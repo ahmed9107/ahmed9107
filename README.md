@@ -1,4 +1,4 @@
-### **<div>HELLO 👋  I'm Ahmed, a full-time Mobile apps freelance developer 👨‍💻</div>**  
+### **<div>HELLO 👋  I'm Ahmed 👨‍💻</div>**  
   
 
 <!--- 🔭 I’m currently working on   
